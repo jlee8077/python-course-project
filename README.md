@@ -1,6 +1,6 @@
 # python-course-project
 # Jung-Hyun Lee
-# G00013016
+# 
 # This program will allow a user to find the mass of a chemical substance (in grams), the amount of moles
 #   of a chemical substance (in moles), the number of molecules of a chemical substance, and the Molarity
 #   of a chemical substance (in moles per Liter).
